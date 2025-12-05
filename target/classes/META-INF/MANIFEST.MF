@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: gloqr
+Build-Jdk: 17.0.7
+Implementation-Title: hotel-microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hotelmicroservice
+Implementation-URL: 
+Created-By: Maven Integration for Eclipse
+
